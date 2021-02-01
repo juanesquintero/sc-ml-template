@@ -1,1 +1,1 @@
-# SC-ML-Template
+# sc-ml-Template
