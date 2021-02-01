@@ -8,6 +8,7 @@ api = Api(app=app, prefix='/api')
 app.config['JSON_SORT_KEYS'] = False
 
 
+
 class HelloWorld(Resource):
     def get(self):
         return {'hello': 'world'}
